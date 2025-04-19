@@ -22,6 +22,6 @@ Demo
 [Add a live demo link or a video showcasing your app]
 
 Installation
-1. Clone the repository: 
+1. Clone the repository: https://github.com/dhananjayingole/MusicUIApp.git
 2. Open the project in Android Studio and build the app.
 3. Run the app on an emulator or physical device.
